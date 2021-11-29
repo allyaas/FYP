@@ -1,0 +1,36 @@
+ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px
+}
+
+a{
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: 	#FFFFFF;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    
+    width: 120px; 
+    padding: 10px;
+    margin-bottom: 1px;
+    background-color: #695E93;
+    
+    display: block;
+    float:none;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: #340744;
+}
+
+body{
+    background-color:#f1f1f1;
+	font-family: 'Archivo', sans-serif;
+}
+
+p{
+    
+}
